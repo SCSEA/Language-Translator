@@ -11,7 +11,7 @@ pkg install git
 
 pkg install python3
 
-git clone https://github.com/Yousuf9963/Language-Translator.git
+git clone https://github.com/SCSEA/Language-Translator.git
 
 cd Language-Translator
 
